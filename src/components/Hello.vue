@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="hello-page">
   <el-row :gutter="10" type="flex" justify="center">
     <el-col :xs="24" :sm="24" :md="10" :lg="10">
       <h1>
@@ -13,25 +13,39 @@
       <el-input placeholder="请输入单词" icon="search" v-model="keyword" @keyup.enter.native="search" :on-icon-click="search"></el-input>
     </el-col>
   </el-row>
-  <div class="entrys">
+  <div class="entrys" v-show="entrys.length > 0">
     <el-row :gutter="10" type="flex" justify="center" v-for="entry in entrys" :key="entry.simplingua">
       <el-col :xs="24" :sm="24" :md="10" :lg="10">
         <div class="entry">
-          <div class="simplingua">
-            {{entry.simplingua}}
+          <div class="top">
+            <div class="simplingua">
+              {{entry.simplingua | capitalize }}
+            </div>
+            <div class="type">
+              <el-tag class="type-tag">{{entry.type}}</el-tag>
+              <el-tag class="rank-tag">Rank {{entry.rank}}</el-tag>
+            </div>
+            <div class="clear"></div>
           </div>
-          <div class="explain">
-            {{entry.type}}, {{entry.explain}}
-          </div>
-          <div class="other-info">
-            <b>词根:</b> {{entry.root}}
-            <b>等级:</b> {{entry.rank}}
+          <ul class="explain">
+            <li v-for="explain in enter(entry.explain)">
+              {{explain}}
+            </li>
+          </ul>
+          <div class="root">
+            {{entry.root}}
           </div>
         </div>
       </el-col>
     </el-row>
   </div>
-
+  <el-row class="footer" :gutter="10" type="flex" justify="center">
+    <el-col :xs="24" :sm="24" :md="10" :lg="10">
+      <a href="/static/textbook.doc">课本书</a>
+      <a href="/static/simplingua.xlsx">词典</a>
+      <a href="/static/grammar.doc">语法书</a>
+    </el-col>
+  </el-row>
 </div>
 </template>
 
@@ -77,35 +91,82 @@ export default {
       }, response => {
         // error callback
       })
+    },
+    enter: function (value) {
+      if (!value) return []
+      value = value.toString()
+      return value.split('\n')
     }
   },
   created () {
     this.loadData()
+  },
+  filters: {
+    capitalize: function (value) {
+      if (!value) return ''
+      value = value.toString()
+      return value.charAt(0).toUpperCase() + value.slice(1)
+    }
   }
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.hello-page {
+  padding: 0 10px;
+}
+.clear {
+  clear: both;
+}
+h1 {
+  color: #a50026;
+}
 .entrys {
   margin-top: 20px;
 }
 .entry {
   margin-bottom: 10px;
-  padding: 10px;
-  background-color: #fcfcfc;
+  color: #d73027;
+  background-color: #fee08b;
   border-radius: 4px;
 }
-.simplingua {
-  font-weight: bold;
+.entry .top {
+  padding: 14px 18px 0px 18px;
+  color: #a50026;
 }
 .explain {
-  margin: 10px 0px 4px 0;
+  margin: 0;
+  padding: 10px 10px 10px 38px;
+  color: #d73027;
+}
+.root {
+  padding: 0px 18px 14px 18px;
+  color: #f46d43;
+}
+.entry .top .simplingua {
+  float: left;
+  font-weight: bold;
+}
+.entry .top .type {
+  float: right;
 }
 .other-info {
   margin-top: 10px;
 }
 .loading {
   margin-bottom: 10px;
+}
+.type-tag {
+  background-color: #66bd63;
+}
+.rank-tag {
+  background-color: #006837;
+}
+.footer {
+  margin-top: 10px;
+}
+.footer a {
+  color: #d73027;
 }
 </style>
