@@ -10,28 +10,26 @@
   </el-row>
   <el-row :gutter="10" type="flex" justify="center" v-if="!loading">
     <el-col :xs="24" :sm="24" :md="10" :lg="10">
-      <el-input placeholder="请输入单词" icon="search" v-model="word"></el-input>
+      <el-input placeholder="请输入单词" icon="search" v-model="keyword" @keyup.enter.native="search" :on-icon-click="search"></el-input>
     </el-col>
   </el-row>
   <div class="entrys">
-    <transition-group name="el-fade-in-linear">
-      <el-row :gutter="10" type="flex" justify="center" v-for="entry in entrys" :key="entry.simplingua">
-        <el-col :xs="24" :sm="24" :md="10" :lg="10">
-          <div class="entry">
-            <div class="simplingua">
-              {{entry.simplingua}}
-            </div>
-            <div class="explain">
-              {{entry.type}}, {{entry.explain}}
-            </div>
-            <div class="other-info">
-              <b>词根:</b> {{entry.root}}
-              <b>等级:</b> {{entry.rank}}
-            </div>
+    <el-row :gutter="10" type="flex" justify="center" v-for="entry in entrys" :key="entry.simplingua">
+      <el-col :xs="24" :sm="24" :md="10" :lg="10">
+        <div class="entry">
+          <div class="simplingua">
+            {{entry.simplingua}}
           </div>
-        </el-col>
-      </el-row>
-    </transition-group>
+          <div class="explain">
+            {{entry.type}}, {{entry.explain}}
+          </div>
+          <div class="other-info">
+            <b>词根:</b> {{entry.root}}
+            <b>等级:</b> {{entry.rank}}
+          </div>
+        </div>
+      </el-col>
+    </el-row>
   </div>
 
 </div>
@@ -43,6 +41,7 @@ import filter from 'lodash/filter'
 export default {
   data () {
     return {
+      keyword: '',
       word: '',
       dictionaries: [],
       loading: true
@@ -66,6 +65,10 @@ export default {
     }
   },
   methods: {
+    search () {
+      console.log('search')
+      this.word = this.keyword.toLowerCase()
+    },
     loadData () {
       this.$http.get('/static/dictionaries.json').then(response => {
         // success callback
