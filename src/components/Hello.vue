@@ -51,6 +51,7 @@
 
 <script>
 import filter from 'lodash/filter'
+import _includes from 'lodash/includes'
 
 export default {
   data () {
@@ -65,20 +66,49 @@ export default {
     entrys () {
       const word = this.word
       if (word.length < 1) return []
-      const startWithWord = filter(this.dictionaries, entry => {
-        return entry.simplingua && entry.simplingua.match(`^${word}.*`)
-      })
-      const notStartWithWord = filter(this.dictionaries, entry => {
-        return entry.simplingua && entry.simplingua.match(`^[^${word}]${word}.*`)
-      })
-      const translations = filter(this.dictionaries, entry => {
-        return entry.explain && entry.explain.match(`${word}.*`)
-      })
-      const entrys = startWithWord.concat(notStartWithWord).concat(translations)
-      return entrys
+      const words = word.split(' ')
+      if (words.length > 1) {
+        return this.translationWords(words)
+      } else {
+        return this.translationWord(word)
+      }
     }
   },
   methods: {
+    translationWords (words) {
+      console.log(words)
+      return filter(this.dictionaries, entry => {
+        return entry.simplingua && _includes(words, entry.simplingua)
+      })
+    },
+    translationWord (word) {
+      const startWithWord = this.headMatch(word)
+      const notStartWithWord = this.bodyMatch(word)
+      const translations = this.translationMatch(word)
+      return startWithWord.concat(notStartWithWord).concat(translations)
+    },
+    accurateMatch (word) {
+      this.dictionaries.forEach(function (entry) {
+        if (entry.simplingua && entry.simplingua === word) {
+          return [entry]
+        }
+      })
+    },
+    headMatch (word) {
+      return filter(this.dictionaries, entry => {
+        return entry.simplingua && entry.simplingua.match(`^${word}.*`)
+      })
+    },
+    bodyMatch (word) {
+      return filter(this.dictionaries, entry => {
+        return entry.explain && entry.explain.match(`${word}.*`)
+      })
+    },
+    translationMatch (word) {
+      return filter(this.dictionaries, entry => {
+        return entry.explain && entry.explain.match(`${word}.*`)
+      })
+    },
     search () {
       console.log('search')
       this.word = this.keyword.toLowerCase()
@@ -120,29 +150,28 @@ export default {
   clear: both;
 }
 h1 {
-  color: #a50026;
+  color: #bb6622;
 }
 .entrys {
   margin-top: 20px;
 }
 .entry {
   margin-bottom: 10px;
-  color: #d73027;
-  background-color: #fee08b;
+  background-color: rgba(52,46,58, 0.85);
   border-radius: 4px;
 }
 .entry .top {
   padding: 14px 18px 0px 18px;
-  color: #a50026;
+  color: #bb6622;
 }
 .explain {
   margin: 0;
   padding: 10px 10px 10px 38px;
-  color: #d73027;
+  color: #e5db82;
 }
 .root {
   padding: 0px 18px 14px 18px;
-  color: #f46d43;
+  color: #768766;
 }
 .entry .top .simplingua {
   float: left;
@@ -158,15 +187,15 @@ h1 {
   margin-bottom: 10px;
 }
 .type-tag {
-  background-color: #66bd63;
+  background-color: #342e3a;
 }
 .rank-tag {
-  background-color: #006837;
+  background-color: #342e3a;
 }
 .footer {
   margin-top: 10px;
 }
 .footer a {
-  color: #d73027;
+  color: #342e3a;
 }
 </style>

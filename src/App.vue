@@ -14,8 +14,16 @@ export default {
   name: 'app',
   mounted () {
     const c = Trianglify({
-      variance: Math.random(),
-      x_colors: 'Oranges',
+      variance: 0.7,
+      x_colors: [
+        '#15252d',
+        '#768766',
+        '#e5db82',
+        '#bb9944',
+        '#bb6622',
+        '#b1200f',
+        '#342e3a'
+      ],
       cell_size: 140,
       width: window.innerWidth,
       height: window.innerHeight
@@ -28,7 +36,7 @@ export default {
 <style>
 body {
   margin: 0;
-  background: #efefef;
+  background: #eee;
 }
 .bk {
   position: fixed;
