@@ -1,0 +1,11 @@
+before_script:
+
+deploy_to_github:
+  tags: [production]
+  only: [master]
+  stage: deploy
+  when: manual
+  allow_failure: false
+  script:
+    - echo "shell user is ${USER}" && pwd
+    - echo "~/${CI_PROJECT_NAME}"
