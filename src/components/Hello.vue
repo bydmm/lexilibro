@@ -44,6 +44,7 @@
       <a href="/static/textbook.doc">课本书</a>
       <a href="/static/simplingua.xlsx">词典</a>
       <a href="/static/grammar.doc">语法书</a>
+      <a href="https://github.com/bydmm/simplingua-workflow">Alfred Workflow词典插件</a>
     </el-col>
   </el-row>
 </div>
