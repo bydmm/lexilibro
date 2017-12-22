@@ -41,9 +41,10 @@
   </div>
   <el-row class="footer" :gutter="10" type="flex" justify="center">
     <el-col :xs="24" :sm="24" :md="10" :lg="10">
-      <a href="/static/textbook.doc">课本书</a>
-      <a href="/static/simplingua.xlsx">词典</a>
-      <a href="/static/grammar.doc">语法书</a>
+      <a href="/static/textbook.pdf">课本</a>
+      <a href="/static/lexilibro.doc">词典</a>
+      <a href="/static/grammar.pdf">语法</a>
+      <a href="/static/pronunciation.pdf">拼读</a>
       <a href="https://github.com/bydmm/simplingua-workflow">Alfred Workflow词典插件</a>
     </el-col>
   </el-row>
