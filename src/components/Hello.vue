@@ -45,6 +45,7 @@
       <a href="/static/lexilibro.doc">词典</a>
       <a href="/static/grammar.pdf">语法</a>
       <a href="/static/pronunciation.pdf">拼读</a>
+      <a href="https://github.com/simplingua/simplingua.github.io">关于词典</a>
       <a href="https://github.com/bydmm/simplingua-workflow">Alfred Workflow词典插件</a>
     </el-col>
   </el-row>
