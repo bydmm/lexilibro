@@ -1,20 +1,21 @@
 A
-A    [介] ①向，到，去往，表示目的地或终点；②（把...）给...，引导间接宾语；③达到...（某个数值）；④对...（非谓语动词的受事者）
+A    [介] ①向，到，去往，表示目的地或终点 ~ cede a scola 去学校；②（把...）给...，引导间接宾语 ~ dona un libro a Johan 给约翰一本书；③达到...（某个数值或某个时间） ~ Mario continue labora a sera. 马里奥持续工作到晚上；④对...（非谓语动词的受事者） ~ le odio a crime 对罪行的憎恨
 Abete    [名] 冷杉（生物）
-Acento    [名] 语调，语气，腔调
-Aco    [名] 针，针头；指针，唱针
-Academia (académia)    [名] ①学术；②研究机构，学术机构  [形] 学术的，学术性的  | academiste {academista, academisto}  学者
-Acie (ácie)    [名] 钢铁，不锈钢  [形] 钢铁的，不锈钢的
-Acide    [形] 酸味的，酸性的
+Acento    [名] ①（语言学）语调；②（语言学）口音；③语气，腔调 ~ Mi ne fave ti acento. 我不喜欢你的腔调。
+Aco    [名] ①针，针头；②指针（如钟表指针、唱针等）
+Academia (académia)    [名] ①学术；②研究机构，学术机构 ~ Academia de Simplingua 简语学会  [形] 学术的，学术性的 ~ un academia libro 一本学术性书籍  | academiste {academista, academisto}  学者
+Acie (ácie)    [名] 钢铁，不锈钢  [形] 钢铁的，不锈钢的  | acioide  [形] 如钢铁一般（坚韧）的 ~ acioide corpo 钢铁般的身躯 ~ acioide spirito 钢铁般的精神
+Acide    [形] ①酸味的；②酸性的  | acidido  [名] ①酸味的东西；②酸性物质  | acidesce  [动] ①酸化；②变酸；③专指变馊  | acidiza  [动]
 Acne    [名] 丘疹，疱疹，痤疮，粉刺
-Acre    [形] ①锋利，尖锐；②形容某人说话严厉、直接
-Acta    [动] 表演，演剧  | actiste {actista, actisto}  [名] 演员  | actitudo  [名] 姿态，对待某事的表现，态度
+Acre    [形] ①锋利，尖锐；②形容某人说话严厉、直接  | acriza  [动] 磨尖
+Acta    [动] /自/表演，演剧  | actiste {actista, actisto}  [名] 演员
+Actitudo    [名] 姿态，对待某事的表现，态度 ~ Li actitudo a li mater es male. 他对他母亲的态度很不好。
 Active    [形] 积极的，活跃的
-Acto    [名] ①戏剧的幕；②法令，条例
-Ade    [动] 附加，添加，加上
-Adora    [动] ①崇拜，崇敬；②酷好，醉心于
+Acto    [名] ①戏剧的幕；②法令，条例 ~ Acto cir Bani Comerce 禁商法令
+Ade    [动] /他/附加，添加，加上 ~ Li ade poco sale in le sopa. 她添了少许盐到汤里。
+Adora    [动] ①/他/崇拜，崇敬；②/他/酷好，醉心于
 Afable    [形] 和气的，和蔼的
-Age    [动] ①行动；②表现  | agente  [名] ①行动者；②常指代理人，代理商，中介  | agile  [形] 敏捷的，迅捷的，机敏的，有机动性的 | Reage    [动][名] 反应
+Age    [动] ①行动；②表现  | agente  [名] ①行动者；②常指代理人，代理商，中介  | agile  [形] 敏捷的，迅捷的，机敏的，有机动性的 | Interage    [动] 互动，交流，交际 | Reage    [动][名] 反应
 Aida    [动][名] 帮助，协助
 Aide    [名] 建筑，建筑物
 Aima    [名] 血，血液
@@ -24,6 +25,7 @@ Aista    [名] 夏天，夏季
 Ala    [名] 翼，翅膀
 Alaudo    [名] 云雀，百灵鸟（生物）
 Alba    [名] 清晨，黎明，拂晓
+Albe    [形] 白色的  [名] 白色
 Alga    [名] 藻类（生物）
 Ali    [限] 另外的
 Alio (álio)    [名] ①葱属植物（生物）；②专指蒜、蒜头（生物）
@@ -222,7 +224,7 @@ Carpa    [名] 鲤鱼（生物）
 Carpo    [名] 腕，手腕，脚腕
 Carta    [名] ①卡片；②证件；③纸牌；④代指书信
 Carton    [名] ①纸板，厚纸；②纸板箱，纸盒
-Casa    [名] 家，住所，住处
+Casa    [名] 房屋，房子，屋子
 Caso    [名] ①案件；②案例
 Casale    [形] ①随意，随便，随和；②任意，随机
 Casabota <casa+bota>    [名] 拖鞋
@@ -238,11 +240,12 @@ Cavo    [名] 洞，孔，穴  | caveta  [名] 坑，腔，膛
 Cavojanua (cavojanúa) <cavo+janua>    [名] ①天窗，舱口；②下水道口
 Cave    [动] 小心，谨慎，慎重  | cavente  [形] 小心的，谨慎的，慎重的
 Ce    [限] 这个，这些，那个，那些
-Cede    [动] 去，走 | Concede    [动] ①让步，退让；②撤回 | Excede    [形] 超越，做得比…更好 | Procede    [动] 办理，处理  [名] 进程，过程 | Sucede    [动] 成功
+Cede    [动] ①让，让出，让渡；让步，退让；②撤回；③（某地）出产；④离开而前去（某处） | Concede    [动] 妥协 | Excede    [形] 超越，做得比…更好 | Procede    [动] 办理，处理  [名] 进程，过程 | Sucede    [动] 成功
 Cefe    [名] 头儿（老板、船长、队长等）
 Cela    [动] ①躲，隐匿；②将...藏起来，藏匿
 Cela    [名] ①小房间，单间；②囚室；③蜂房
 Celebra    [动] 庆祝，过（节）
+Celer    [形] 快的，迅速的，迅捷的  | celeritudo  [名] 速度
 Celer flui    [名][组] 激流，急流，湍流，奔流，洪流
 Cemento    [名] 水泥
 Cende    [动] 开动，发动（电器等）
@@ -268,6 +271,7 @@ Chapo    [名] 帽子
 Chapter    [名] 章，篇，回
 Charma    [动] 迷人，吸引  | charmante  [形] 迷人的，娇艳的，妩媚的
 Chata    [动] 聊天，闲聊
+Chau    [呼] 拜，再见
 Chocolate    [名] 巧克力
 Ci    [代] ①那个东西，那件事；②指代天气；③指代时间
 Cicada    [名] 蝉，知了（生物）
@@ -346,7 +350,7 @@ Coque    [动] 煮，烧，烹调
 Coquesala <coque+sala>    [名] 厨房
 Core    [名] 心，心脏
 Corage <cor(e)+age>    [形] 勇敢的，有勇气的 | Incorage    [动] 鼓励
-Corda    [名] 绳，弦，索 | Acorda    [动] 达成一致，（谈判）双方同意  - acordo  [名] 协议 | Concorda    [名] ①和音；②融洽，和谐，协调 | Recorda    [动] 记得  [名] （体育等的）记录
+Corda    [名] 绳子，弦，索 | Acorda    [动] 达成一致，（谈判）双方同意  - acordo  [名] 协议 | Concorda    [名] ①和音；②融洽，和谐，协调 | Recorda    [动] 记得  [名] （体育等的）记录
 Corno    [名] 兽角
 Corpo    [名] 身体
 Corta    [动] 割，刈
@@ -448,7 +452,8 @@ Docte    [形] 有文化，有教养，有见识
 Doctore {doctora, doctoro}    [名] ①文化人士；②常专指博士
 Dole    [动] 疼痛  [名] 疼痛，痛苦
 Doma    [动] 驯服，驯养，使温顺  | domate  [形] 被驯服的，家养的  | domada  [名] 家畜，牲畜
-Domo    [名] 房屋，房子，屋子
+Domo    [名] 家，住所，住处
+Domo-mision (domo-mísion) <domo+mision>  [名] 家庭作业
 Dona    [动] ①给予；②赠送  | donada    [名] 礼品 | Perdona    [动] 饶恕，原谅
 Don    [名] 主人
 Dormi    [动] 睡，睡觉
@@ -460,7 +465,7 @@ Drama    [名] ①戏剧，悲喜剧；②电视剧
 Du    [数] 二，两个
 Duana    [名] 海关
 Duantaxa <duan(a)+taxa>    [名] 关税
-Duce    [动] 带领，引领，指引，给...带路 | Conduce    [动] ①控制；②驾驶  | conduciste {conducista, conducisto}  司机，机师 | Educe    [动][名] 教育 | Produce    [动] 生产 | Seduce    [动] 引诱，诱惑 | Transduce    [动] 翻译
+Duce    [动] 带领，引领，指引，给...带路 | Conduce    [动] ①控制；②驾驶  | conduciste {conducista, conducisto}  司机，机师 | Educe    [动][名] 教育 | Induce    [动] ①介绍；②引进，引入 | Produce    [动] 生产 | Seduce    [动] 引诱，诱惑 | Transduce    [动] 翻译
 Ducha    [动] ①淋；②淋浴
 Dulge    [动] 宠爱，溺爱 | Indulge    [动] 放纵，颓废
 Dura    [名] 持续
@@ -474,6 +479,7 @@ Ec    [介] 从，来自
 Economia (económia)    [名] 经济
 Ede    [动] 吃，食用
 Edita    [动] 编辑，校订  | editiste {editista, editisto}  [名] 编辑
+Ege    [动] 需要  | egete  [形] 需要的，所需的，必需的
 Elaste    [形] 有弹力，有弹性
 Electro    [名] 电
 Elefante    [名] 大象（生物）
@@ -541,7 +547,7 @@ Femina    [形] ①阴性的；②有女人味的，女性气质的
 Feno    [名] 干草
 Fende    [动] ①撕，撕开，撕裂；②拔掉，摘 | Defende    [动] 防御，保卫 | Ofende    [动] 触犯，冒犯，进犯
 Fenester    [名] 窗户
-Fere    [动] 携带 | Difere    [动] 不同，不同于  | diferente  [形] 不同的  | diferensa  [名] 不同点，差异 | Indifere    [形] 不感兴趣，冷漠 | Ofere    [动] ①供给，提供；②奉献，贡献；③有...可出售 | Prefere    [动] 宁愿，偏好，更喜欢  [名] 偏好 | Sufere    [动] 挨，遭受，忍受（痛苦或煎熬） | Transfere    [动] 转移，转让
+Fere    [动] 携带 | Difere    [动] 不同，不同于  | diferente  [形] 不同的  | diferensa  [名] 不同点，差异 | Indifere    [形] 不感兴趣，冷漠 | Ofere    [动] ①供给，提供；②奉献，贡献；③有...可出售 | Prefere    [动] 宁愿，偏好，更喜欢  [名] 偏好 | Refere    [动] 参考 | Sufere    [动] 挨，遭受，忍受（痛苦或煎熬） | Transfere    [动] 转移，转让
 Feri    [动] 击伤，创伤，打伤
 Ferida    [名] 伤，伤口
 Fero    [名] 铁（元素）  [形] 铁的，铁制的
@@ -614,6 +620,7 @@ Frase    [名] 句子 | Interfrase    [动] ①口译；②说明解释，换�
 Frater    [名] 兄弟，哥哥，弟弟
 Frena    [名] ①刹车，制动；②急停 - Freno    [名] 制动器，刹车
 Frente    [名] 前额，额头
+Freque    [动] 时常，常有  | frequente  [形][副] 经常，时常，常常
 Fresce    [形] ①新鲜，鲜嫩；②新近  | fresciza  [动] ①使变得新鲜；②刷新（网页等）
 Frige    [形] 冷，凉快  | frigeza  [名] 寒冷
 Frigeteca <frige+teca>    [名] 冰箱，冰柜
@@ -625,7 +632,7 @@ Fruto    [名] 成果
 Frutasalsa <fruta-salsa>    [名] 果酱
 Fugi    [动] ①逃脱，脱离危险；②摆脱，脱身 | Refugi    [动] 避难，逃亡，逃难  | refuginte {refuginta, refuginto}  难民，逃难者
 Fulme    [名] 闪电
-Fumo    [名] 烟 | Perfumo    [名] ①香味，香气；②香水
+Fumo    [名] 烟 - fuma    [动] ①冒烟；②抽烟，吸烟 | Perfumo    [名] ①香味，香气；②香水
 Funcion    [名] ①职能，职务；②作用，功能；③函数
 Funde    [形] ①深的；②深刻的，深远的，深沉的 - Fundo    [名] 底，深处，底部 | Confunde    [动] 迷惑，搅乱，使...感到混乱
 Fungo    [名] 真菌（生物）
@@ -714,6 +721,7 @@ Hesita    [动] 踌躇，犹豫，迟疑
 Hieme    [名] 冬天
 Higien (hígien)    [名] 卫生
 Hirondo    [名] 燕子（生物）
+Hola    [呼] 嗨，哈喽，你好
 Holo    [名] 蔬菜  | holismo  [名] 素食主义，素的
 Homo    [名] 人，人类  | homario (homário)  [名] 全人类
 Honeste    [形] 诚实的，正直的
@@ -761,7 +769,7 @@ Jacta    [动] 自夸，吹牛，说大话
 Janua (janúa)    [名] 门
 Jaqueta    [名] 夹克
 Jecta    [动] 扔，抛，投掷 | Ajectivo    [名] 形容词 | Injecta    [动] 注射 | Ojecto    [名] ①对象，客体；②宾语 | Projecto    [名] 方案，草案，计划 | Rejecta    [动] 拒绝，拒收 | Sujecto    [名] ①主体；②主语
-Joca    [动] ①玩，玩耍；②演奏（乐器）；③参加（球类活动） - Joco    [名] 游戏
+Joca    [动] ①玩，玩耍；②演奏（乐器）；③参加（球类活动）  | Jocada  [名] 玩具 - Joco    [名] 游戏
 Jocadice    [动] 开玩笑
 Jonge    [动] 套（牲口），挂（车），将...连到（某处）
 Jonctura    [名] ①关节；②枢纽
@@ -810,7 +818,6 @@ Lente    [形] 慢的
 Leon    [名] 狮子（生物）
 Lepo    [名] 兔子（生物）
 Leson    [名] 课，功课
-Leuco    [形] 白色的  [名] 白色
 Leva    [动] 举，抬，提起
 Aleva    [动] ①饲养；②专指改良品种，培育良种
 Leve    [形] 轻的
@@ -875,7 +882,7 @@ Mama    [名] 妈妈（mater的昵称）
 Mana    [名] 早晨
 Mano    [名] 手
 Manca    [动] 缺少，缺乏，欠缺
-Manda    [动] ①吩咐，指令；②点（菜） | Comanda    [动] 统率，指挥 | Demanda    [动] 要求，诉求，需求
+Manda    [动] ①吩咐，指令，命令；②点（菜） | Comanda    [动] 统率，指挥 | Demanda    [动] 要求，诉求，需求
 Manerio (manério)    [名] 庄园，田庄
 Manica    [名] 袖，袖口
 Manlampa <man(o)+lampa>    [名] 提灯，灯笼
@@ -1012,8 +1019,6 @@ Navage <nav(a)+age>    [动] 航行，出海
 Ne    [副] 不，没
 Nese    [连] 除非
 Nebla    [名] 雾
-Necese    [形] 必需的，需要的
-Necesita    [动] 需要
 Necte    [动] 连接，连结 | Disnecte    [动] ①断开（网络）；②（电器等）断开，断线；③短路
 Nega    [动] 说不（否决、否认等）
 Negocia (negócia)    [动] 商谈，谈判
@@ -1172,10 +1177,10 @@ Pele    [动] 推 | Compele    [动] 强迫，逼迫 | Expele    [动] 驱�
 Pelo    [名] ①毛发；②专指头发
 Pen    [名] 男性生殖器，阴茎
 Pende    [动] 挂，垂，悬挂 | Depende    [动] ①依赖，依靠；②取决于 | Expende    [动] 花费（金钱或时间）
-Pensa    [动] ①想，思考；②觉得；③掂量 | Compensa    [动] 补偿，赔偿，抵偿
+Pensa    [动] ①想，思考；②觉得；③掂量，考虑 | Compensa    [动] 补偿，赔偿，抵偿
 Pepo    [名] 南瓜，西葫芦（生物）
 Per    [介] ①以，用，凭借；②沿着，经过，通过；③持续...时间；④被（被动分词的施事者）
-Peri    [动] 穿越过，通过 | Experi    [动] 经历，体验，经验 | Imperi    [名] 帝国
+Peri    [动] 通过 | Experi    [动] 经历，体验，经验 | Imperi    [名] 帝国
 Per sui    [副][组] 自行，亲自
 Perde    [动] 失去，丢失 | Disperde    [动] 浪费
 Perilo    [名] 危险  | perilosa  [形] 危险的
@@ -1530,7 +1535,7 @@ Soledi <sole+di(a)>    [名] 星期日，星期天
 Solen    [形] 庄严，肃穆，庄重
 Solve    [动] 解决，解答 | Asolve    [形] 绝对的 ，完全的  [副] 绝对 | Disolve    [动] 溶解，溶化
 Soma    [名] ①个体，物体；②三维体；③生命体
-Sona    [动] ①发声，发出声音；②听起来 - Sono    [名] 声音 | Persona    [名] 人，个人 | Personale    [形] 个人的，个性的 | Resona    [动] 回响，反响，回音  - resono [名] 回响，反响，回音
+Sona    [动] ①发声，发出声音；②听起来 - Sono    [名] 声音 | Persona    [名] ①人，个人；②工作人员  | personario  [名] 人力资源；全体员工 | Personale    [形] 个人的，个性的 | Resona    [动] 回响，反响，回音  - resono [名] 回响，反响，回音
 Sonia (sónia)    [动] 梦见 - Sonio (sónio)    [名] 梦
 Sonore    [形] 大声的，响亮的
 Sopa    [名] 汤，羹
@@ -1538,7 +1543,6 @@ Sora    [名] 姊妹，姐姐，妹妹
 Sorbe    [动] 吸入，吸收
 Sorgo    [名] 高粱（生物）
 Sorte    [名] 运气，幸运
-Sovente    [副] 经常，时常
 Spacia (spácia)    [动] 散步，溜达
 Spacio (spácio)    [名] ①空间；②太空
 Spada    [名] 剑
@@ -1627,7 +1631,6 @@ Talia (tália)    [动] ①剪裁，为…剪（毛）；②凿  | taliste {tali
 Tan    [副] 如此，这么  [限] 这样的，这种的，那样的，那种的
 Tapa    [动] ①塞；②打字输入 - Tapo    [名] 塞子，软木，瓶塞
 Tapete    [名] 地毯，挂毯，桌毯
-Taqui    [形] 快的，迅速的，迅捷的  | taquitudo  [名] 速度
 Tarde    [名] 下午
 Tarde    [形] 晚的，迟的
 Tarta    [名] 糕点，蛋糕
@@ -1649,7 +1652,7 @@ Tema    [名] 题目，话题，主题，题材
 Tempo    [名] 时间
 In tempo    [副] 准时，及时，守时
 Tempesta    [名] 暴风，暴风雨
-Tene    [动] ①持，握；②容纳 | Contene    [形] 满意的，满足的 | Extene    [动] 节制，戒除 | Intertene    [动] 款待，招待 | Mantene    [动] 保持，维持 | Sutene    [动] 支撑，支持  | sutenente {sutenenta, sutenento}  [名] 支持者
+Tene    [动] ①持，握；②容纳 | Contene    [动] 含有，内含，有...的内容  | conteneda  [名] 内容 | Extene    [动] 节制，戒除 | Intertene    [动] 款待，招待 | Mantene    [动] 保持，维持 | Sutene    [动] 支撑，支持  | sutenente {sutenenta, sutenento}  [名] 支持者
 Tende    [动] 拉，拧，拉紧，张紧  | tendensa  [名] 倾向，趋势 | Atende    [动] 参加，参与 | Extende    [动] ①伸展；②伸向... | Intende    [动] ①企图；②故意，有意，存心  [名] 企图，居心 | Pretende    [动] 假装，假扮
 Tenda    [名] 帐篷，蒙古包
 Tener    [形] 温柔的，温情的，亲切的，体贴的
@@ -1685,7 +1688,7 @@ Tira    [动] 拖，拉，拽 | Atira    [动] 引诱，吸引 | Distira    
 Titila    [动] 呵痒，挠胳肢窝
 Titlo    [名] ①标题，书名，篇名；②称号，头衔
 Toala    [名] 一块布，巾，毛巾
-Toca    [动] 碰，触碰
+Toca    [动] 碰，触碰 | Contoca    [动] 接触
 Tolera    [动] 容忍，对…宽容
 Tomate    [名] 西红柿，番茄（生物）
 Tomba    [名] 坟墓，陵墓
@@ -1707,6 +1710,7 @@ Tracto    [名] 区别特征
 Tragedia (tragédia)    [名] 悲剧，惨案
 Tragique    [形] 悲惨的
 Trans    [介] 透过，穿过
+Transi    [动] 穿过，横穿，穿越，转移
 Trapa    [名] 陷阱，圈套
 Trema    [动] 颤动，颤抖，发抖 | Extrema    [形] 极端的，极度的
 Tren    [名] 列车，火车
@@ -1749,7 +1753,7 @@ Va    [副] 将要，将会（将行体）
 Vacino    [名] 疫苗
 Vacinio (vacínio)    [名] 越橘，蔓越莓（生物）
 Vacue (vacúe)    [形] 空的，空荡荡的
-Vade    [动] 行进，跋涉 | Invade    [动] 入侵，侵略
+Vade    [动] 前往，去往；行进，跋涉 | Invade    [动] 入侵，侵略
 Vaga    [动] 漫游，游荡，漂泊，流浪  | vagante {vaganta, vaganto}  [名] 流浪者，流浪汉，漂泊者
 Vale    [名] 谷，谷地，山谷，河谷
 Valide    [形] 可用的，有效的  | nonvalide  [形] 无效的，不可用的
@@ -1767,7 +1771,7 @@ Vedúe {vedúa, vedúo}    [名] 鳏寡人士，寡妇，鳏夫
 Vege    [形] 活跃的，活泼的，有活力的
 Vela    [名] 帆
 Velo    [名] 面纱，头巾
-Velopa    [名] 信封 | Developa    [动] 发展
+Velopa    [名] ①信封；②包装
 Veni    [动] 来，过来  | veniza  [动] 招徕，招致 | Disveni    [动] 晕，昏厥，晕倒 | Eveni    [名] 事变，事件 | Inveni    [动] 发明
 Vena    [名] 静脉，血管
 Ventura    [名] 奇遇，冒险
@@ -1824,7 +1828,7 @@ Volonta    [动] 自愿，志愿
 Volpe    [名] 狐狸（生物）
 Volture    [名] 兀鹰，秃鹫（生物）
 Volume    [名] ①卷，册；②体积，容积，容量
-Volve    [动] 缠绕 | Evolve    [动] 进化，演化 | Involve    [动] 缠住，使卷入，使陷入 | Revolve    [动] 举行革命，造反，起义
+Volve    [动] 缠绕  | Divolve    [动] 发展 | Evolve    [动] 进化，演化 | Involve    [动] 缠住，使卷入，使陷入 | Revolve    [动] 举行革命，造反，起义
 Vomi    [动] 呕吐，吐出，喷出
 Vora    [动] ①吞咽；②吞噬，吞食
 Vos    [代] 你们
@@ -1838,6 +1842,6 @@ Z
 Zea (zéa)    [名] 玉米（生物）
 Zele    [形] 猜忌的，吃醋的，感到嫉妒的
 Zero    [数] 零
-Zinco    [名] 锌（生物）
+Zinco    [名] 锌（元素）
 Zona    [名] 地区，区域
 Zumi    [动] ①嗡鸣；②絮语，唠叨；③哼唱
